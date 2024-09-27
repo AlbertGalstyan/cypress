@@ -1,5 +1,5 @@
-import LoginPage, { loginPage } from "../POM/LoginPage"
-import { homePage } from "../POM/HomePage"
+import LoginPage, { loginPage } from "../POM/loginPage/LoginPage"
+import { homePage } from "../POM/homePage/HomePage"
 
 
 
